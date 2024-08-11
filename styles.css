@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+#main-header {
+    background-color: darkblue;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.section {
+    padding: 2rem;
+    margin: 2rem 0;
+    background-color: white;
+}
+
+.subtitle {
+    margin-top: 0;
+}
+
+.text {
+    color: darkblue;
+}
+
+.skillsList ul{ 
+    list-style-type: square;
+
+}
+
+.career {
+ color: darkblue;
+ font-style: italic;
+}
+ h2{
+    text-align: center;
+ }
+
+ #profilePic{
+    width: 100px;
+ }
