@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4 !important;
 }
 
 #main-header {
@@ -21,7 +21,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: darkblue !important;
     text-decoration: none;
 }
 
